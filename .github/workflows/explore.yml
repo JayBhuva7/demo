@@ -13,4 +13,4 @@ jobs:
       - name: List repository
         run: ls -la
       - name: Show message
-        run: exho "Repository files are available!" 
+        run: echo "Repository files are available!" 
