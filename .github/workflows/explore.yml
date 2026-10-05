@@ -11,6 +11,6 @@ jobs:
       - name: Show current directory
         run: pwd 
       - name: List repository
-        run: la -la
+        run: ls -la
       - name: Show message
         run: exho "Repository files are available!" 
